@@ -8,5 +8,5 @@ describe('test verify', () => {
     cy.visit("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login")
     cy.title().should('eq','OrangeHRcy')
   })
-
 })
+

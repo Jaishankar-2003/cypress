@@ -10,3 +10,7 @@ describe('test verify', () => {
   })
 })
 
+// locator
+// css selector , xpath  cy.get(Locator)
+// css selector  tag id , tag class , tag attribute , tag class attribute  (tag optional)
+
